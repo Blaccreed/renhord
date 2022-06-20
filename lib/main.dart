@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:renhord/screens/connexion.dart';
+import 'package:renhord/screens/home.dart';
 import 'package:renhord/screens/sell.dart';
 
 void main() {
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
           title: Text("Formulaire de revente renhord"),
         ),
         backgroundColor: HexColor('#f2fdfa'),
-        body: const Center(child: Sell()),
+        body: const Center(child: Home()),
       ),
     );
   }

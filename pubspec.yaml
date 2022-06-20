@@ -37,6 +37,7 @@ dependencies:
   retrofit: ^3.0.1+1
   http: ^0.13.4
   hexcolor: ^2.0.7
+  im_stepper: ^0.1.3
 
 dev_dependencies:
   flutter_test:
