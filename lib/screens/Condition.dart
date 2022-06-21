@@ -25,6 +25,7 @@ class _ConditionState extends State<Condition> {
           itemCount: _states.length,
           itemBuilder: (BuildContext context, int index) {
             return Container(
+
               height: 30,
               width: 10,
               color: Colors.white,
