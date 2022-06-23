@@ -66,6 +66,10 @@ flutter:
     - assets/notebook.jpg
     - assets/phone.jpg
     - assets/tablet.jpg
+    - assets/tablet.json
+    - assets/phone.json
+    - assets/phone-model.json
+    - assets/pc.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

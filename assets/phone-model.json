@@ -1,0 +1,1963 @@
+{
+    "Apple": [{
+
+            "label": "iPhone 13",
+            "value": "iPhone 13",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 13 Mini",
+            "value": "iPhone 13 Mini",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 13 Pro",
+            "value": "iPhone 13 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 13 Pro Max",
+            "value": "iPhone 13 Pro Max",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 12 Pro Max",
+            "value": "iPhone 12 Pro Max",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 12 Pro",
+            "value": "iPhone 12 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 12",
+            "value": "iPhone 12",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 12 mini",
+            "value": "iPhone 12 mini",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone SE 2020",
+            "value": "iPhone SE 2020",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 11",
+            "value": "iPhone 11",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 11 Pro",
+            "value": "iPhone 11 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 11 Pro Max",
+            "value": "iPhone 11 Pro Max",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone XS",
+            "value": "iPhone XS",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone XS Max",
+            "value": "iPhone XS Max",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone XR",
+            "value": "iPhone XR",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone X",
+            "value": "iPhone X",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 8 Plus",
+            "value": "iPhone 8 Plus",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 8",
+            "value": "iPhone 8",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 7",
+            "value": "iPhone 7",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 7 Plus",
+            "value": "iPhone 7 Plus",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone SE",
+            "value": "iPhone SE",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 6S",
+            "value": "iPhone 6S",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 6S Plus",
+            "value": "iPhone 6S Plus",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 6",
+            "value": "iPhone 6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 6 Plus",
+            "value": "iPhone 6 Plus",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 5C",
+            "value": "iPhone 5C",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 5S",
+            "value": "iPhone 5S",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 5",
+            "value": "iPhone 5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 4S",
+            "value": "iPhone 4S",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 4",
+            "value": "iPhone 4",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 3GS",
+            "value": "iPhone 3GS",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone",
+            "value": "iPhone",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "iPhone 3G",
+            "value": "iPhone 3G",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+
+    ],
+    "Asus": [{
+            "label": "ROG Phone 3",
+            "value": "ROG Phone 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "ZenFone 7 Pro",
+            "value": "ZenFone 7 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "ROG Phone 2",
+            "value": "ROG Phone 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Zenfone 6",
+            "value": "Zenfone 6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Zenfone 3 Max",
+            "value": "Zenfone 3 Max",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Zenfone 4 Max",
+            "value": "Zenfone 4 Max",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Zenfone 5",
+            "value": "Zenfone 5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "ZENFONE 5Z",
+            "value": "ZENFONE 5Z",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "BlackBerry": [{
+            "label": "9320 Curve",
+            "value": "9320 Curve",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "9360 Curve",
+            "value": "9360 Curve",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "9700 Bold",
+            "value": "9700 Bold",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "9780 Bold",
+            "value": "9780 Bold",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "9790 Bold",
+            "value": "9790 Bold",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "9900 Bold",
+            "value": "9900 Bold",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "BlackBerry Q10",
+            "value": "BlackBerry Q10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Bold  9930",
+            "value": "Bold  9930",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "KEY 2",
+            "value": "KEY 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "KEY2",
+            "value": "KEY2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "KEY2 LE",
+            "value": "KEY2 LE",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Keyone",
+            "value": "Keyone",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Passport",
+            "value": "Passport",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Q10",
+            "value": "Q10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Q5",
+            "value": "Q5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Z10",
+            "value": "Z10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Z30",
+            "value": "Z30",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Crosscall": [{
+        "label": "Trekker X3",
+        "value": "Trekker X3",
+        "selected": false,
+        "image": null,
+        "icon": null,
+        "description": ""
+    }],
+    "Google": [{
+            "label": "Pixel 6",
+            "value": "Pixel 6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel",
+            "value": "Pixel",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 2",
+            "value": "Pixel 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 2 XL",
+            "value": "Pixel 2 XL",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 3",
+            "value": "Pixel 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 3 XL",
+            "value": "Pixel 3 XL",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 3a",
+            "value": "Pixel 3a",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 3a XL",
+            "value": "Pixel 3a XL",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 4",
+            "value": "Pixel 4",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 4 XL",
+            "value": "Pixel 4 XL",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 4a",
+            "value": "Pixel 4a",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel 5",
+            "value": "Pixel 5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pixel XL",
+            "value": "Pixel XL",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Honor": [{
+            "label": "7A",
+            "value": "7A",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "8 Pro",
+            "value": "8 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "9 Lite",
+            "value": "9 Lite",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Honor 10",
+            "value": "Honor 10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 5C",
+            "value": "honor 5C",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 5X",
+            "value": "honor 5X",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Honor 6C",
+            "value": "Honor 6C",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 6X",
+            "value": "honor 6X",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 7",
+            "value": "honor 7",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 7 Premium",
+            "value": "honor 7 Premium",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 7X",
+            "value": "honor 7X",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 8",
+            "value": "honor 8",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Honor 8",
+            "value": "Honor 8",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Honor 8X",
+            "value": "Honor 8X",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "honor 9",
+            "value": "honor 9",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Honor 9 Lite",
+            "value": "Honor 9 Lite",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Play",
+            "value": "Play",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "View 10",
+            "value": "View 10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "View 20",
+            "value": "View 20",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "HTC": [{
+            "label": "10",
+            "value": "197",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Desire",
+            "value": "16",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "One",
+            "value": "15",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Sensation",
+            "value": "14",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "U",
+            "value": "196",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Huawei": [{
+            "label": "Ascend",
+            "value": "24",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Enjoy",
+            "value": "21",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mate",
+            "value": "19",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Nexus",
+            "value": "199",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Nova",
+            "value": "20",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "P",
+            "value": "18",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Y",
+            "value": "23",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "LG": [{
+            "label": "G Flex",
+            "value": "G Flex",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G Flex 2",
+            "value": "G Flex 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G Pro 2",
+            "value": "G Pro 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G2",
+            "value": "G2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G3",
+            "value": "G3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G3S",
+            "value": "G3S",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G4",
+            "value": "G4",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G5",
+            "value": "G5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G6",
+            "value": "G6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "G7",
+            "value": "G7",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Nexus 4",
+            "value": "Nexus 4",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Nexus 5",
+            "value": "Nexus 5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Nexus 5X",
+            "value": "Nexus 5X",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Optimus 4X HD",
+            "value": "Optimus 4X HD",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Optimus G",
+            "value": "Optimus G",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Optimus G E975",
+            "value": "Optimus G E975",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Optimus G Pro",
+            "value": "Optimus G Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "V30",
+            "value": "V30",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Motorola": [{
+            "label": "one vision",
+            "value": "one vision",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Moto G",
+            "value": "Moto G",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Moto X 2",
+            "value": "Moto X 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Nexus 6",
+            "value": "Nexus 6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Nokia": [{
+            "label": "1",
+            "value": "200",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "2",
+            "value": "201",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "6",
+            "value": "202",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "7",
+            "value": "203",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "8",
+            "value": "204",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "9",
+            "value": "205",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Lumia",
+            "value": "4",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "OnePlus": [{
+            "label": "8T",
+            "value": "8T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 8",
+            "value": "OnePlus 8",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 8 Pro",
+            "value": "OnePlus 8 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 7T Pro",
+            "value": "OnePlus 7T Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 7T",
+            "value": "OnePlus 7T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 2",
+            "value": "OnePlus 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 3",
+            "value": "OnePlus 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 3T",
+            "value": "OnePlus 3T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 5",
+            "value": "OnePlus 5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 5T",
+            "value": "OnePlus 5T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 6",
+            "value": "OnePlus 6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 6t",
+            "value": "OnePlus 6t",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 7",
+            "value": "OnePlus 7",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "OnePlus 7 Pro",
+            "value": "OnePlus 7 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Oppo": [{
+        "label": "Find X",
+        "value": "318",
+        "selected": false,
+        "image": null,
+        "icon": null,
+        "description": ""
+    }],
+    "Samsung": [{
+            "label": "Galaxy A",
+            "value": "11",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Ace",
+            "value": "7",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Alpha",
+            "value": "211",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy C",
+            "value": "209",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Core",
+            "value": "208",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Express",
+            "value": "210",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Fold",
+            "value": "206",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Grand",
+            "value": "8",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy J",
+            "value": "35",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy M",
+            "value": "207",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Mega",
+            "value": "10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Note",
+            "value": "3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy S",
+            "value": "1",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy S Mini",
+            "value": "2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Trend",
+            "value": "52",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Wave",
+            "value": "9",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Xcover",
+            "value": "51",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Galaxy Z",
+            "value": "193",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Solid B",
+            "value": "55",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Sony": [{
+            "label": "Xperia 10",
+            "value": "214",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia E",
+            "value": "218",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia J",
+            "value": "222",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia L",
+            "value": "217",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia S",
+            "value": "224",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia T",
+            "value": "219",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia V",
+            "value": "223",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia X",
+            "value": "215",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia Xa",
+            "value": "225",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia Xz",
+            "value": "213",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Xperia Z",
+            "value": "17",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Wiko": [{
+            "label": "Harry2",
+            "value": "Harry2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Highway 4G",
+            "value": "Highway 4G",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Lenny 2",
+            "value": "Lenny 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Lenny 3",
+            "value": "Lenny 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pulp 4G",
+            "value": "Pulp 4G",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Rainbow Jam",
+            "value": "Rainbow Jam",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Rainbow Lite Dual Sim",
+            "value": "Rainbow Lite Dual Sim",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Ridge",
+            "value": "Ridge",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "sunny 3",
+            "value": "sunny 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Tommy",
+            "value": "Tommy",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Ufeel",
+            "value": "Ufeel",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "WIM",
+            "value": "WIM",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ],
+    "Xiaomi": [{
+            "label": "11T ",
+            "value": "11T ",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 11",
+            "value": "Mi 11",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 10T",
+            "value": "Mi 10T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 10T Pro",
+            "value": "Mi 10T Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "redmi note 9s",
+            "value": "redmi note 9s",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 10 Pro",
+            "value": "Mi 10 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 9",
+            "value": "Redmi Note 9",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 9 Pro",
+            "value": "Redmi Note 9 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 8T",
+            "value": "Redmi Note 8T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 10",
+            "value": "Mi 10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 9T",
+            "value": "Mi 9T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 9T Pro",
+            "value": "Mi 9T Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 8",
+            "value": "Redmi Note 8",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 8 Pro",
+            "value": "Redmi Note 8 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi Note 10",
+            "value": "Mi Note 10",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 4X",
+            "value": "Redmi 4X",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "11T Pro",
+            "value": "11T Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 11 Lite",
+            "value": "Mi 11 Lite",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 11i",
+            "value": "Mi 11i",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 8",
+            "value": "Mi 8",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 8 Lite",
+            "value": "Mi 8 Lite",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 9",
+            "value": "Mi 9",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 9 Lite",
+            "value": "Mi 9 Lite",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi 9 SE",
+            "value": "Mi 9 SE",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi A1",
+            "value": "Mi A1",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi A2",
+            "value": "Mi A2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi A2 Lite",
+            "value": "Mi A2 Lite",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi Max 2",
+            "value": "Mi Max 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi Max 3",
+            "value": "Mi Max 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi Mix 2",
+            "value": "Mi Mix 2",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi Mix 2s",
+            "value": "Mi Mix 2s",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi Mix 3",
+            "value": "Mi Mix 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi5",
+            "value": "Mi5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi5s",
+            "value": "Mi5s",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Mi6",
+            "value": "Mi6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Poco F2 Pro",
+            "value": "Poco F2 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Pocophone F1",
+            "value": "Pocophone F1",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 3S",
+            "value": "Redmi 3S",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 4",
+            "value": "Redmi 4",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 5",
+            "value": "Redmi 5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 5 Plus",
+            "value": "Redmi 5 Plus",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 6",
+            "value": "Redmi 6",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 6A",
+            "value": "Redmi 6A",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 7",
+            "value": "Redmi 7",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 7A",
+            "value": "Redmi 7A",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi 9T",
+            "value": "Redmi 9T",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Go",
+            "value": "Redmi Go",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 10 5G",
+            "value": "Redmi Note 10 5G",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 3",
+            "value": "Redmi Note 3",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 4",
+            "value": "Redmi Note 4",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 5",
+            "value": "Redmi Note 5",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 6 Pro",
+            "value": "Redmi Note 6 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 7",
+            "value": "Redmi Note 7",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        },
+        {
+            "label": "Redmi Note 7 Pro",
+            "value": "Redmi Note 7 Pro",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+        }
+    ]
+}

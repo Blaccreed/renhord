@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:renhord/screens/Condition.dart';
 import 'package:renhord/screens/Features.dart';
 import 'package:renhord/screens/productType.dart';
+import 'package:renhord/screens/productCondition.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
@@ -13,9 +13,9 @@ class Home extends StatefulWidget {
 List<Step> stepList() => [
       const Step(title: Text("Appareil"), content: productType()),
 
-      const Step(title: Text("Caractéristiques"), content: Condition()),
+      const Step(title: Text("Caractéristiques"), content: Features()),
 
-      const Step(title: Text("État"), content: Condition())
+      const Step(title: Text("État"), content: productCondition())
     ];
 
 int current = stepList().indexOf(stepList().first);

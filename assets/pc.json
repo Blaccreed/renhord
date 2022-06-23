@@ -1,0 +1,128 @@
+[
+  {
+    "step": {
+      "key": "device",
+      "label": "Votre appareil",
+      "title": "Votre appareil",
+      "completed": false,
+      "active": true
+    },
+    "questions": [
+      {
+        "key": "brand",
+        "title": "Quelle est la marque de votre pc ?",
+        "subTitle": "",
+        "lastQuestion": false,
+        "type": "select",
+        "placeholder": "Marque",
+        "options": [
+          {
+            "label": "Apple",
+            "value": "16",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Acer",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Asus",
+            "value": "39",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Compaq",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Dell",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "HP",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Lenovo",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Medion",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Packard Bell",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Samsung",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Sony",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Thomson",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Toshiba",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          }
+        ],
+        "tooltip": null
+      }
+    ]
+  }
+]

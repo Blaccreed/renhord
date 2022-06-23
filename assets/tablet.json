@@ -1,0 +1,48 @@
+[
+  {
+    "step": {
+      "key": "device",
+      "label": "Votre appareil",
+      "title": "Votre appareil",
+      "completed": false,
+      "active": true
+    },
+    "questions": [
+      {
+        "key": "brand",
+        "title": "Quelle est la marque de votre tablette ?",
+        "subTitle": "",
+        "lastQuestion": false,
+        "type": "select",
+        "placeholder": "Marque",
+        "options": [
+          {
+            "label": "Apple",
+            "value": "16",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Huawei",
+            "value": "46",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          },
+          {
+            "label": "Samsung",
+            "value": "39",
+            "selected": false,
+            "image": null,
+            "icon": null,
+            "description": ""
+          }
+        ],
+        "tooltip": null
+      }
+    ]
+  }
+]

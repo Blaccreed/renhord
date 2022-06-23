@@ -1,0 +1,200 @@
+[
+    {
+        "step": {
+            "key": "device",
+            "label": "Votre appareil",
+            "title": "Votre appareil",
+            "completed": false,
+            "active": true
+        },
+        "questions": [
+            {
+                "key": "brand",
+                "title": "Quelle est la marque de votre téléphone ?",
+                "subTitle": "",
+                "lastQuestion": false,
+                "type": "select",
+                "placeholder": "Marque",
+                "options": [
+                    {
+                        "label": "Apple",
+                        "value": "1",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Asus",
+                        "value": "43",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "BlackBerry",
+                        "value": "2",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Crosscall",
+                        "value": "69",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Google",
+                        "value": "3",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Honor",
+                        "value": "35",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "HTC",
+                        "value": "4",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Huawei",
+                        "value": "5",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "LG",
+                        "value": "6",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Motorola",
+                        "value": "11",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Nokia",
+                        "value": "10",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "OnePlus",
+                        "value": "36",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Oppo",
+                        "value": "41",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Samsung",
+                        "value": "7",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Sony",
+                        "value": "8",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Wiko",
+                        "value": "12",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    },
+                    {
+                        "label": "Xiaomi",
+                        "value": "40",
+                        "selected": false,
+                        "image": null,
+                        "icon": null,
+                        "description": ""
+                    }
+                ],
+                "tooltip": null
+            }
+        ]
+    },
+    {
+        "step": {
+            "key": "sim_lock",
+            "label": "Blocage SIM",
+            "title": "",
+            "completed": false,
+            "active": false
+        },
+        "questions": []
+    },
+    {
+        "step": {
+            "key": "state_screen",
+            "label": "État de l'écran",
+            "title": "",
+            "completed": false,
+            "active": false
+        },
+        "questions": []
+    },
+    {
+        "step": {
+            "key": "state_body",
+            "label": "État de la coque et du contour",
+            "title": "",
+            "completed": false,
+            "active": false
+        },
+        "questions": []
+    },
+    {
+        "step": {
+            "key": "functional",
+            "label": "Fonctionnalité",
+            "title": "",
+            "completed": false,
+            "active": false
+        },
+        "questions": []
+    }
+]
