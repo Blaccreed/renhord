@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 
+import 'Features.dart';
+
 class productType extends StatefulWidget {
   const productType({Key? key}) : super(key: key);
 
@@ -14,23 +16,6 @@ class _productTypeState extends State<productType> {
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        Container(
-
-          color: Colors.white,
-          height: 125,
-          width: 130,
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              InkWell(
-                onTap: () {},
-                child: Image.asset('assets/notebook.jpg'),
-              ),
-              SizedBox(height: 5,),
-              Text("Ordinateur")
-            ],
-          ),
-        ),
         const SizedBox(
           height: 15,
         ),
@@ -42,7 +27,12 @@ class _productTypeState extends State<productType> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               InkWell(
-                onTap: () {},
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => const Features()),
+                  );
+                },
                 child: Image.asset('assets/phone.jpg'),
               ),
               const SizedBox(height: 5,),

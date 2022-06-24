@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:renhord/screens/Features.dart';
+import 'package:renhord/screens/Informations.dart';
 import 'package:renhord/screens/productType.dart';
 import 'package:renhord/screens/productCondition.dart';
 
@@ -11,11 +12,15 @@ class Home extends StatefulWidget {
 }
 
 List<Step> stepList() => [
-      const Step(title: Text("Appareil"), content: productType()),
+      const Step(title: Text(""), content: productType()),
 
-      const Step(title: Text("Caractéristiques"), content: Features()),
+      const Step(title: Text(""), content: Features()),
 
-      const Step(title: Text("État"), content: productCondition())
+      const Step(title: Text(""), content: productCondition()),
+
+      const Step(title: Text(""), content: Information()),
+
+
     ];
 
 int current = stepList().indexOf(stepList().first);
@@ -24,6 +29,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Stepper(
+
       currentStep: current,
       type: StepperType.horizontal,
       steps: stepList(),

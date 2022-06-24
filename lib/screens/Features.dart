@@ -11,51 +11,56 @@ class Features extends StatefulWidget {
 }
 
 class _FeaturesState extends State<Features> {
-
-
-  List<String> dataKeys = [];
-  List<String> dataValue = [];
   List<DropdownMenuItem<String>> dropdownItems = [];
+  List<String> brands = [];
+
+  var seen = <String>{};
+
   @override
   Widget build(BuildContext context) {
+    List<String> uniquelist = brands.where((brand) => seen.add(brand)).toList();
 
-  String dropdownValue = 'one';
 
     return Container(
       child: Center(
           child: FutureBuilder(
         future: DefaultAssetBundle.of(context)
             .loadString('assets/phone-model.json'),
-        builder: (BuildContext context, AsyncSnapshot<dynamic> snapshot) {
-          var new_data = json.decode(snapshot.data.toString()) as Map;
-          for (String key in new_data.keys) {
-            dataKeys.add(key);
-            var newDropdown = DropdownMenuItem(child: Text(key),
-            value: key,);
-            dropdownItems.add(newDropdown);
-          }
-          for (String value in new_data.values) {
-            dataValue.add(value);
+        builder: (BuildContext context, snapshot) {
+          if (snapshot.hasData) {
+            var jsonData = json.decode(snapshot.data.toString()) as Map;
 
-          }
+            for (String k in jsonData.keys) {
+              brands.add(k);
+            }
+            String defaultValue = uniquelist.first;
+            return DropdownButton<String>(
+              value: defaultValue,
+              icon: const Icon(Icons.arrow_downward),
+              elevation: 16,
+              style: const TextStyle(color: Colors.deepPurple),
+              underline: Container(
+                height: 2,
+                color: Colors.deepPurpleAccent,
+              ),
+              items: uniquelist.map((brand) {
+                return DropdownMenuItem(
+                  child: Text(brand),
+                  value: brand,
+                );
+              }).toList(),
+              onChanged: (brand) {
+                setState(() {
+                  print("You selected: $brand");
+                  print(uniquelist[0]);
 
-          return DropdownButton<String>(
-            value: dataKeys[0],
-            icon: const Icon(Icons.arrow_downward),
-            elevation: 16,
-            style: const TextStyle(color: Colors.deepPurple),
-            underline: Container(
-              height: 2,
-              color: Colors.deepPurpleAccent,
-            ),
-            onChanged: (String? value) {
-              setState(() {
-                dropdownValue = value!;
-              });
-            },
-            items: dropdownItems
-          );
-          //data.map((e) => null)
+                  defaultValue = brand!;
+                  print(defaultValue);
+                });
+              },
+            );
+          }
+          return CircularProgressIndicator();
         },
       )),
     );
