@@ -13,12 +13,24 @@ class _ConnexionState extends State<Connexion> {
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          TextFormField(),
-          const SizedBox(height: 15.0,),
-          TextFormField(
-              
-          )
+        children: const [
+          TextField(
+            obscureText: true,
+            decoration: InputDecoration(
+              border: OutlineInputBorder(),
+              labelText: 'email',
+            ),
+          ),
+          SizedBox(
+            height: 15.0,
+          ),
+          TextField(
+            obscureText: true,
+            decoration: InputDecoration(
+              border: OutlineInputBorder(),
+              labelText: 'mot de passe',
+            ),
+          ),
         ],
       ),
     );

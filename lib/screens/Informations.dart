@@ -17,7 +17,7 @@ class _InformationState extends State<Information> {
     return SizedBox(
       width: 150,
       child: Column(
-        children: [
+        children: const [
           TextField(
             obscureText: true,
             decoration: InputDecoration(

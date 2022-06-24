@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:renhord/screens/Connexion.dart';
-import 'package:renhord/screens/Home.dart';
+import 'package:renhord/screens/Stepper.dart';
 import 'package:renhord/screens/productType.dart';
 
 void main() {

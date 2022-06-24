@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 
-import 'Features.dart';
+import 'productBrand.dart';
 
 class productType extends StatefulWidget {
   const productType({Key? key}) : super(key: key);

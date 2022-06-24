@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:renhord/screens/Features.dart';
+import 'package:renhord/screens/productBrand.dart';
 import 'package:renhord/screens/Informations.dart';
 import 'package:renhord/screens/productType.dart';
 import 'package:renhord/screens/productCondition.dart';
