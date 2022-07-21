@@ -13,7 +13,7 @@ class Features extends StatefulWidget {
 
 class _FeaturesState extends State<Features> {
   String defaultValue = "Apple";
-  List<String> model = [];
+  List<String> models = [];
   List<String> brands = [];
 
 
@@ -23,17 +23,15 @@ class _FeaturesState extends State<Features> {
     var data = json.decode(response.toString()) as Map;
 
     for (String brand in data.keys) {
-      int i = 0;
+
       brands.add(brand);
-      if(data.keys.contains(brand)){
-        //models.add(data.keys)
-      }
+
     }
 
 
 
     print(brands);
-
+   print(models);
     return "Success";
   }
 
