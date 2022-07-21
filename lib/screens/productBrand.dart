@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 class Features extends StatefulWidget {
   const Features({Key? key}) : super(key: key);
@@ -10,60 +9,62 @@ class Features extends StatefulWidget {
   State<Features> createState() => _FeaturesState();
 }
 
-class _FeaturesState extends State<Features> {
-  List<DropdownMenuItem<String>> dropdownItems = [];
-  List<String> brands = [];
+//EnhancedDropDown.withData(dropdownLabelTitle: "Marque du téléphone", dataSource: _getBrands(), defaultOptionText: defaultOptionText, valueReturned: valueReturned);
 
-  var seen = <String>{};
+class _FeaturesState extends State<Features> {
+  List<String> brands = [];
+  List<String> models = [];
+  String defaultValue = "Apple";
+  Future<String> getBrands() async {
+    final response = await DefaultAssetBundle.of(context)
+        .loadString('assets/phone-model.json');
+    var data = json.decode(response.toString()) as Map;
+
+    for (String brand in data.keys) {
+      int i = 0;
+      brands.add(brand);
+      if(data.keys.contains(brand)){
+        //models.add(data.keys)
+      }
+    }
+
+
+
+    print(brands);
+
+    return "Success";
+  }
+
+  @override
+  void initState() {
+    super.initState();
+
+    getBrands();
+  }
 
   @override
   Widget build(BuildContext context) {
-    List<String> uniquelist = brands.where((brand) => seen.add(brand)).toList();
-
-
-    return Container(
-      child: Center(
-          child: FutureBuilder(
-        future: DefaultAssetBundle.of(context)
-            .loadString('assets/phone-model.json'),
-        builder: (BuildContext context, snapshot) {
-          if (!snapshot.hasData) {
-            return CircularProgressIndicator();
-          }
-          var jsonData = json.decode(snapshot.data.toString()) as Map;
-
-          for (String k in jsonData.keys) {
-            brands.add(k);
-          }
-          String defaultValue = uniquelist.first;
-          print("defaut value is : $defaultValue");
-          return DropdownButton<String>(
-            value: defaultValue,
-            icon: const Icon(Icons.arrow_downward),
-            elevation: 16,
-            style: const TextStyle(color: Colors.deepPurple),
-            underline: Container(
-              height: 2,
-              color: Colors.deepPurpleAccent,
-            ),
-            items: uniquelist.map((brand) {
-              return DropdownMenuItem(
-                child: Text(brand),
-                value: brand,
-              );
-            }).toList(),
-            onChanged: (brand) {
-              setState(() {
-                print("You selected: $brand");
-                print(uniquelist[0]);
-
-                defaultValue = brand!;
-                print(defaultValue);
-              });
-            },
-          );
-        },
-      )),
+    return DropdownButton<String>(
+      value: defaultValue,
+      icon: const Icon(Icons.arrow_downward),
+      elevation: 16,
+      style: const TextStyle(color: Colors.deepPurple),
+      underline: Container(
+        height: 2,
+        color: Colors.deepPurpleAccent,
+      ),
+      onChanged: (brand) {
+        setState(() {
+          defaultValue = brand.toString();
+          print(defaultValue);
+        });
+      },
+      items: brands.map((brand) {
+        return DropdownMenuItem(
+          value: brand,
+          child: Text(brand),
+        );
+      }).toList(),
     );
   }
 }
