@@ -12,9 +12,11 @@ class Features extends StatefulWidget {
 //EnhancedDropDown.withData(dropdownLabelTitle: "Marque du téléphone", dataSource: _getBrands(), defaultOptionText: defaultOptionText, valueReturned: valueReturned);
 
 class _FeaturesState extends State<Features> {
-  List<String> brands = [];
-  List<String> models = [];
   String defaultValue = "Apple";
+  List<String> model = [];
+  List<String> brands = [];
+
+
   Future<String> getBrands() async {
     final response = await DefaultAssetBundle.of(context)
         .loadString('assets/phone-model.json');
@@ -44,27 +46,33 @@ class _FeaturesState extends State<Features> {
 
   @override
   Widget build(BuildContext context) {
-    return DropdownButton<String>(
-      value: defaultValue,
-      icon: const Icon(Icons.arrow_downward),
-      elevation: 16,
-      style: const TextStyle(color: Colors.deepPurple),
-      underline: Container(
-        height: 2,
-        color: Colors.deepPurpleAccent,
-      ),
-      onChanged: (brand) {
-        setState(() {
-          defaultValue = brand.toString();
-          print(defaultValue);
-        });
-      },
-      items: brands.map((brand) {
-        return DropdownMenuItem(
-          value: brand,
-          child: Text(brand),
-        );
-      }).toList(),
+    return Column(
+      children: [
+        DropdownButton<String>(
+          value: defaultValue,
+          icon: const Icon(Icons.arrow_downward),
+          elevation: 16,
+          style: const TextStyle(color: Colors.deepPurple),
+          underline: Container(
+            height: 2,
+            color: Colors.deepPurpleAccent,
+          ),
+          onChanged: (brand) {
+            setState(() {
+              defaultValue = brand.toString();
+              print(defaultValue);
+            });
+          },
+          items: brands.map((brand) {
+            return DropdownMenuItem(
+              value: brand,
+              child: Text(brand),
+            );
+          }).toList(),
+        ),
+
+
+      ],
     );
   }
 }
