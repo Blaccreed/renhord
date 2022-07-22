@@ -44,34 +44,36 @@ class _FeaturesState extends State<Features> {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: [
-        DropdownButton<String>(
-          value: defaultValue,
-          icon: const Icon(Icons.arrow_downward),
-          elevation: 16,
-          style: const TextStyle(color: Colors.deepPurple),
-          underline: Container(
-            height: 2,
-            color: Colors.deepPurpleAccent,
+    return Scaffold(
+      body: Column(
+        children: [
+          DropdownButton<String>(
+            value: defaultValue,
+            icon: const Icon(Icons.arrow_downward),
+            elevation: 16,
+            style: const TextStyle(color: Colors.deepPurple),
+            underline: Container(
+              height: 2,
+              color: Colors.deepPurpleAccent,
+            ),
+            onChanged: (brand) {
+              setState(() {
+                defaultValue = brand.toString();
+                print(defaultValue);
+              });
+            },
+            items: brands.map((brand) {
+              return DropdownMenuItem(
+                value: brand,
+                child: Text(brand),
+              );
+            }).toList(),
           ),
-          onChanged: (brand) {
-            setState(() {
-              defaultValue = brand.toString();
-              print(defaultValue);
-            });
-          },
-          items: brands.map((brand) {
-            return DropdownMenuItem(
-              value: brand,
-              child: Text(brand),
-            );
-          }).toList(),
-        ),
 
 
 
-      ],
+        ],
+      ),
     );
   }
 }
