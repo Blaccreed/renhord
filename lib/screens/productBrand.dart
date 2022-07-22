@@ -25,13 +25,13 @@ class _FeaturesState extends State<Features> {
     for (String brand in data.keys) {
 
       brands.add(brand);
-
     }
 
 
 
+
     print(brands);
-   print(models);
+   print(data.values.iterator);
     return "Success";
   }
 
@@ -68,6 +68,7 @@ class _FeaturesState extends State<Features> {
             );
           }).toList(),
         ),
+
 
 
       ],
